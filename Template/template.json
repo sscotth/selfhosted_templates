@@ -4,7 +4,7 @@
     "title": "Airsonic",
     "name": "airsonic",
     "description": "Airsonic is a free, web-based media streamer, providing ubiqutious access to your music. Use it to share your music with friends, or to listen to your own music while at work. You can stream to multiple players simultaneously, for instance to one player in your kitchen and another in your living room.",
-    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/airsonic-logo.png",
+    "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/m"aster/Images/airsonic-logo.png",
     "image": "linuxserver/airsonic:latest",
     "categories": [
       "Music"
@@ -1644,7 +1644,7 @@
     "type": 1,
     "title": "Chowdown",
     "name": "Chowdown",
-    "description": "ave recipes in seconds with plain text formatting and create beatiful recipe pages with automated ease.",
+    "description": "Save recipes in seconds with plain text formatting and create beatiful recipe pages with automated ease.",
     "logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/chowdown.png",
     "image": "gregyankovoy/chowdown:latest",
     "categories": [
